@@ -7829,7 +7829,8 @@
 	<!-- Cats are Liquid -->
 	<item component="ComponentInfo{com.lastquarterstudios.catsareliquid/com.unity3d.player.UnityPlayerActivity}" drawable="cats_are_liquid"/>
 	<item component="ComponentInfo{com.lastquarterstudios.catsareliquidabp/com.unity3d.player.UnityPlayerActivity}" drawable="cats_are_liquid"/>
-
+	<item component="ComponentInfo{com.lastquarterstudios.catsareliquidabp/com.lastquarterstudios.catsareliquidabp.UnityPlayerActivity}" drawable="cats_are_liquid"/>
+	
 	<!-- CATSA -->
 	<item component="ComponentInfo{com.wmode.velocity/com.ibm.catsa.ui.layouts.SplashActivity}" drawable="catsa"/>
 
@@ -10785,6 +10786,7 @@
 
 	<!-- Dhan -->
 	<item component="ComponentInfo{com.dhan.live/com.raise.dhan.MainActivity}" drawable="dhan"/>
+	<item component="ComponentInfo{com.dhan.live/com.raise.dhan.christmas}" drawable="dhan"/>
 
 	<!-- Dharma -->
 	<item component="ComponentInfo{io.dharma.Dharma/host.exp.exponent.MainActivity}" drawable="dharma"/>
@@ -11802,6 +11804,7 @@
 	<item component="ComponentInfo{video.downloader.videodownloader.tube/free.video.downloader.converter.music.view.activity.StartupActivity}" drawable="video_downloader"/>
 	<item component="ComponentInfo{video.downloader.freevideodownloader/video.downloader.freevideodownloader.activity.ActivitySplash}" drawable="video_downloader"/>
 	<item component="ComponentInfo{com.umix.app.musicplayer/com.vipvideodownloader.app.videodownloader.MainActivity}" drawable="video_downloader"/>
+	<item component="ComponentInfo{com.umix.app.musicplayer/com.umix.app.musicplayer.MainActivity}" drawable="video_downloader"/>
 	<item component="ComponentInfo{mobidev.apps.vd/mobidev.apps.vd.activity.MasterActivity}" drawable="video_downloader"/>
 	<item component="ComponentInfo{com.all.social.video.downloader/com.video.downloader.activity.MainActivity}" drawable="video_downloader"/>
 	<item component="ComponentInfo{com.downloadlab.facebook.video.downloader/com.videodownloader.common.SplashActivity}" drawable="video_downloader"/>
@@ -30226,6 +30229,7 @@
 	<item component="ComponentInfo{com.loyaltyplant.partner.papajohns/crc64eb65ea6159fb1028.RootActivity}" drawable="papa_johns"/>
 	<item component="ComponentInfo{gt.com.papajohns/com.papajohns.MainActivity}" drawable="papa_johns"/>
 	<item component="ComponentInfo{ru.papajohns.app/ru.papajohns.app.MainActivity}" drawable="papa_johns"/>
+	<item component="ComponentInfo{ru.papajohns.app/ru.papajohns.app.SplashActivity}" drawable="papa_johns"/>
 
 	<!-- Papago -->
 	<item component="ComponentInfo{com.naver.labs.translator/com.naver.labs.translator.LauncherDefault}" drawable="papago"/>
@@ -31692,7 +31696,7 @@
 
 	<!-- Plexus -->
 	<item component="ComponentInfo{tech.techlore.plexus/tech.techlore.plexus.activities.SplashActivity}" drawable="plexus"/>
-
+	<item component="ComponentInfo{tech.techlore.plexus/tech.techlore.plexus.activities.FirstActivity}" drawable="plexus"/>
 	<!-- PLN Mobile -->
 	<item component="ComponentInfo{com.icon.pln123/io.flutter.embedding.android.FlutterActivity}" drawable="pln_mobile"/>
 
@@ -40487,7 +40491,9 @@
 
 	<!-- Theme Park -->
 	<item component="ComponentInfo{com.samsung.android.themedesigner/com.samsung.android.themedesigner.StartupActivity}" drawable="theme_park"/>
-	<item component="ComponentInfo{com.samsung.android.themedesigner/com.samsung.android.themedesigner.SplashActivity}" drawable="theme_park"/>
+	<item component="ComponentInfo{com.samsung.android.themedesigner
+	/com.samsung.android.themedesigner.SplashActivity}" drawable="theme_park"/>
+	<item component="ComponentInfo{com.samsung.android.themedesigner/com.samsung.android.themedesigner.ui.view.SplashComposeActivity}" drawable="theme_park"/>
 
 	<!-- Theme Store -->
 	<item component="ComponentInfo{com.heytap.themestore/com.nearme.themespace.activities.ThemeActivity}" drawable="theme_store"/>
@@ -40847,6 +40853,7 @@
 
 	<!-- Ting -->
 	<item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.MainActivity}" drawable="ting"/>
+	<item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.WelComeActivity}" drawable="ting"/>
 
 	<!-- Tinkoff -->
 	<item component="ComponentInfo{com.idamob.tinkoff.android/ru.tinkoff.mb.ui.splash.SplashActivity}" drawable="tinkoffbiz"/>
@@ -42600,7 +42607,8 @@
 
 	<!-- Uphold -->
 	<item component="ComponentInfo{com.uphold.wallet/com.uphold.wallet.MainActivity}" drawable="uphold"/>
-
+	<item component="ComponentInfo{com.uphold.wallet/com.uphold.wallet.SplashActivity}" drawable="uphold"/>
+	
 	<!-- Uplive -->
 	<item component="ComponentInfo{com.asiainno.uplive/com.asiainno.uplive.init.splash.SplashActivity}" drawable="uplive"/>
 
@@ -43019,7 +43027,7 @@
 
 	<!-- vFlat -->
 	<item component="ComponentInfo{com.voyagerx.scanner/com.voyagerx.livedewarp.EntryActivity}" drawable="vflat"/>
-
+	<item component="ComponentInfo{com.voyagerx.scanner/com.min.n.MainActivity}" drawable="vflat"/>
 	<!-- Vi -->
 	<item component="ComponentInfo{com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivity}" drawable="vi"/>
 	<item component="ComponentInfo{com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivityic_launcher}" drawable="vi"/>
@@ -43473,6 +43481,7 @@
 	<item component="ComponentInfo{re.sova.five/re.sova.five.StaticIcon6}" drawable="vk"/>
 	<item component="ComponentInfo{re.sova.five/re.sova.five.EventIcon5}" drawable="vk"/>
 	<item component="ComponentInfo{re.sova.five/re.sova.five.StaticIcon2}" drawable="vk"/>
+	<item component="ComponentInfo{re.sova.five/re.sova.five.EventIcon4}" drawable="vk"/>
 	<item component="ComponentInfo{re.sova.five/re.sova.five.EventIcon6}" drawable="vk"/>
 	<item component="ComponentInfo{com.vk.equals/com.vk.android.launcher.icons.IconAlias.DefaultIcon}" drawable="vk"/>
 	<item component="ComponentInfo{com.vk.equals/com.vk.android.launcher.icons.IconAlias.EventIcon2}" drawable="vk"/>
@@ -43481,6 +43490,7 @@
 	<item component="ComponentInfo{com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.StaticIcon1}" drawable="vk"/>
 	<item component="ComponentInfo{com.vtosters.lite/com.vtosters.lite.id160}" drawable="vk"/>
 	<item component="ComponentInfo{com.vtosters.lite/com.vtosters.lite.id161}" drawable="vk"/>
+	<item component="ComponentInfo{com.vtosters.lite/com.vtosters.lite.id00}" drawable="vk"/>
 	<item component="ComponentInfo{com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.EventIcon4}" drawable="vk"/>
 	<item component="ComponentInfo{com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.StaticIcon6}" drawable="vk"/>
 	<item component="ComponentInfo{com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.EventIcon1}" drawable="vk"/>
